@@ -1,7 +1,7 @@
 # Hi 👋, I'm Cesar
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgoldeneagle.ai%2Fblog%2Fcloud-and-infrastructure%2Fdocker-your-software-superhero%2F&ved=0CBUQjRxqGAoTCLDDseDer5IDFQAAAAAdAAAAABCHAQ&opi=89978449" />
+  <img src="0_yyXUqMOGLDWIZE3t.gif" alt="Image" />
 </p>
 
 ## 🛠️ Backend Developer | Architecture Enthusiast
