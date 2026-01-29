@@ -38,11 +38,6 @@ Passionate about building scalable, structured, and maintainable server-side app
 
 ---
 
-## 🤝 Community Service Project
-Currently developing a **Student Management System** for **UNEXPO**, focused on automating enrollment and grade registration. The project applies robust architectures to ensure scalability and long-term maintainability.
-
----
-
 ## ⚡ Where to find me
 <p align="left">
 <a href="https://www.linkedin.com/in/césar-ostos-8686291b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césar-ostos-8686291b0" height="30" width="40" /></a>
