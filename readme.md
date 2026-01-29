@@ -1,5 +1,9 @@
 # Hi 👋, I'm Cesar
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgoldeneagle.ai%2Fblog%2Fcloud-and-infrastructure%2Fdocker-your-software-superhero%2F&ved=0CBUQjRxqGAoTCLDDseDer5IDFQAAAAAdAAAAABCHAQ&opi=89978449" />
+</p>
+
 ## 🛠️ Backend Developer | Architecture Enthusiast
 
 Passionate about building scalable, structured, and maintainable server-side applications. My core focus is on **Clean Architecture** and **Domain-Driven Design (DDD)**.
