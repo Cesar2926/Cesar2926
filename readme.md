@@ -14,10 +14,10 @@ Passionate about building scalable, structured, and maintainable server-side app
 ## 🚀 Technologies & Tools
 
 ### Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,flask,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,flask,postgres,docker)](https://skillicons.dev)
 
 ### Languages & Scripting
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,ts,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,js,ts,bash)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
