@@ -8,7 +8,7 @@
 
 Passionate about building scalable, structured, and maintainable server-side applications. My core focus is on **Clean Architecture** and **Domain-Driven Design (DDD)**.
 
-- ☕ **Core Stack:** Java (Spring Boot) & TypeScript (NestJS).
+- ☕ **Core Stack:** Java (Spring Boot) & Python (FastApi).
 - 🏗️ **Architectures:** Microservices, and Modular Monoliths.
 - 🐳 **Infrastructure:** Experience with Docker, PostgreSQL, and building CI/CD pipelines.
 - 🎓 **Currently:** Computer Engineering student at **UCAB**.
