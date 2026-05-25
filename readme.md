@@ -4,12 +4,12 @@
   <img src="0_yyXUqMOGLDWIZE3t.gif" alt="Image" />
 </p>
 
-## 🛠️ Backend Developer | Architecture Enthusiast
+## 🛠️ FullStack Developer | Architecture Enthusiast
 
 Passionate about building scalable, structured, and maintainable server-side applications. My core focus is on **Clean Architecture** and **Domain-Driven Design (DDD)**.
 
-- ☕ **Core Stack:** Java (Spring Boot) & Python (FastApi).
-- 🏗️ **Architectures:** Microservices, and Modular Monoliths.
+- ☕ **Core Stack:** Java (Spring Boot), Python (FastApi), Typescript (NestJS).
+- 🏗️ **Architectures:** Clean Architecture, Microservices, and Modular Monoliths.
 - 🐳 **Infrastructure:** Experience with Docker, PostgreSQL, and building CI/CD pipelines.
 - 🎓 **Currently:** Computer Engineering student at **UCAB**.
 
@@ -18,25 +18,19 @@ Passionate about building scalable, structured, and maintainable server-side app
 ## 🚀 Technologies & Tools
 
 ### Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,fastapi,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,fastapi,django,postgres,docker)](https://skillicons.dev)
 
 ### Languages & Scripting
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,js,ts,go,bash)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,next)](https://skillicons.dev)
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=git,linux,debian)](https://skillicons.dev)
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cesar2926&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Cesar2926" />
-</p>
-
----
 
 ## ⚡ Where to find me
 <p align="left">
